@@ -1,5 +1,5 @@
 👋 Hey, I’m @estellealz 
-My LinkedIn : https://www.linkedin.com/in/estelle-alizier-5b1208298/
+My LinkedIn follow me :) --> https://www.linkedin.com/in/estelle-alizier-5b1208298/
 Have a nice day !
 
 <!---
