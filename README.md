@@ -30,7 +30,7 @@ J'ai participé à la célèbre Piscine de 42, voici mon travail :
 <h2 style="font-size: 2.5em; color: #24292e;">💻 <strong>GitHub Python<strong></h2>
 <p style="font-size: 1.3em;">
 Je m'amuse à coder des petits programmes en python afin de travailler sur les algorithmes : 
-<br><a href="https://github.com/estellealz/Piscine42" style="font-size: 1.5em; color: #24292e;">https://github.com/estellealz/Python</a>
+<br><a href="https://github.com/estellealz/Python" style="font-size: 1.5em; color: #24292e;">https://github.com/estellealz/Python</a>
 </p>
 
 ---
