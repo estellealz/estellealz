@@ -12,6 +12,15 @@ Mon portfolio contient mes travaux récents, projets, et mon parcours :
 
 ---
 
+<h2 style="font-size: 2.5em; color: #480E33;">🎮 <strong>Jeux - Godot Engine</strong></h2>
+<p style="font-size: 1.3em;">
+Vous y trouverez les jeux que j'ai codé sur le logiciel Godot Engine :
+<br><a href="http://estelle-alz.itch.io" style="font-size: 1.5em; color: #8499A5;">http://estelle-alz.itch.io/</a>
+</p>
+
+---
+
+
 <h2 style="font-size: 2.5em; color: #480E33;">🔗 <strong>My LinkedIn</strong></h2>
 <p style="font-size: 1.3em;">
 Suivez-moi sur LinkedIn pour voir mes mises à jour professionnelles et mes projets :
