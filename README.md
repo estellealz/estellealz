@@ -1,20 +1,57 @@
 <h1 align="center" style="font-size: 3em; color: #480E33;">👋 Hey, I’m <strong>@estellealz</strong></h1>
-<p align="center" style="font-size: 1.5em;">Bienvenue sur mon GitHub ! Je partage ici mes projets, mes jeux, et mes passions.</p>
-
-<hr>
-
-<h2 style="font-size: 2.5em; color: #480E33;">🎨 <strong>PortFolio</strong></h2>
-<p style="font-size: 1.3em;">
-Mon portfolio contient mes travaux récents, projets et mon parcours :
-<br>
-<a href="http://estelle-alizier.fr/" style="font-size: 1.5em; color: #8499A5;"><strong>estelle-alizier.fr</strong></a>
-</p>
+<p align="center" style="font-size: 1.5em;">Bienvenue sur mon GitHub ! Je partage ici mes projets, mes jeux, et mes expérimentations en cybersécurité.</p>
 
 ---
 
-<h2 style="font-size: 2.5em; color: #480E33;">🧠 <strong>Compétences Techniques</strong></h2>
+## 🎨 Portfolio
 
-<h3 style="color: #480E33;">💻 Langages de programmation</h3>
+🔗 **[estelle-alizier.fr](https://estelle-alizier.fr)**  
+
+---
+
+## 🛡️ Pourquoi la cybersécurité ?
+
+Ma passion pour la cybersécurité est née d’un déclic :  
+en voulant protéger un site que j’avais moi-même développé, j’ai découvert le monde fascinant de l’analyse des vulnérabilités, du raisonnement défensif, et des mécanismes réseau/système.
+
+Je me suis formée en autodidacte sur **Root Me**, **Hack The Box**, puis en formation à l’**EFREI Paris**, spécialisation cybersécurité.
+
+💡 Ce qui me motive :
+- Déjouer les failles logiques et techniques
+- Comprendre le fonctionnement des attaques pour mieux les prévenir
+- Appliquer la sécurité dans les projets concrets
+
+---
+
+## 🌐 Projet principal — Mon site web personnel
+
+🔗 [Site Web - Estelle](https://github.com/estellealz/website)
+
+Ce projet met en application mes compétences techniques et ma rigueur, tant sur l’aspect **design** que sur le **code fonctionnel**. Il combine :
+- PHP/CSS/JS
+- Intégration dynamique, animations, mini-jeux
+- Architecture propre & accessibilité
+
+🔐 C’est aussi un support de tests en cybersécurité :
+- Injections SQL simulées sur le formulaire
+- Analyse réseau avec **Burp Suite**
+- Tentatives d’accès à des pages restreintes
+- Tests XSS / CSRF / comportements HTTP
+
+---
+
+## 🧠 Compétences techniques
+
+### 🔐 Cybersécurité & Réseau  
+
+- **Burp Suite** — Analyse des requêtes HTTP/HTTPS, tests d'injection, détection de failles web  
+- **Wireshark** — Capture et analyse de paquets réseau  
+- **VirtualBox** — Virtualisation de systèmes pour test et pratique offensive/défensive  
+- **Cisco Packet Tracer** — Simulation d’architectures réseau et compréhension du routage/switching  
+- **Root Me** — Plateforme de challenges pour la sécurité offensive (stéganographie, réseau, web, crypto, etc.)  
+- **Hack The Box** — Pratique d’exploitation de machines, élévation de privilèges et pentesting
+
+### 💻 Langages de programmation  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40"/>
@@ -26,7 +63,7 @@ Mon portfolio contient mes travaux récents, projets et mon parcours :
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" width="40"/>
 </p>
 
-<h3 style="color: #480E33;">🧰 Frameworks & Logiciels</h3>
+### 🧰 Frameworks et Logiciels  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass" width="40"/>
@@ -44,53 +81,30 @@ Mon portfolio contient mes travaux récents, projets et mon parcours :
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width="40"/>
 </p>
 
-<h3 style="color: #480E33;">🔐 Cybersécurité</h3>
-<ul>
-  <li>Burp Suite</li>
-  <li>Wireshark</li>
-  <li>VirtualBox</li>
-  <li>Root Me</li>
-  <li>Hack The Box</li>
-</ul>
+---
+
+## 💻 Piscine 42
+
+J’ai participé à la célèbre **Piscine de 42** (2023).  
+Voici mes projets réalisés pendant cette expérience intensive :  
+👉 [Piscine - Ecole 42](https://github.com/estellealz/Piscine42)
 
 ---
 
-<h2 style="font-size: 2.5em; color: #480E33;">💻 <strong>GitHub 42 School</strong></h2>
-<p style="font-size: 1.3em;">
-J'ai participé à la célèbre Piscine de 42, voici mon travail :
-<br>
-<a href="https://github.com/estellealz/Piscine42" style="font-size: 1.5em; color: #8499A5;">Voir le dépôt</a>
-</p>
+## 🤝 Projet Laravel – MatchWork
+
+Travail de groupe réalisé dans le cadre de mon Bachelor 3.  
+MatchWork est une plateforme de mise en relation entre profils tech/créatifs pour créer des projets en binôme.  
+👉 [MatchWork - Réseau Social Laravel](https://github.com/Tidragon-coder/projet_dev_match)
 
 ---
 
-<h2 style="font-size: 2.5em; color: #480E33;">🤝 <strong>Projet Laravel – MatchWork</strong></h2>
-<p style="font-size: 1.3em;">
-J’ai travaillé en groupe sur un projet Laravel appelé <strong>MatchWork</strong>.<br>
-Le but : créer une plateforme de mise en relation de personnes issues de différents domaines pour lancer des projets en binôme.<br>
-Ce devoir de cours a été pensé comme un vrai réseau de collaboration !
-<br>
-<a href="https://github.com/Tidragon-coder/projet_dev_match" style="font-size: 1.5em; color: #8499A5;">Découvrir le projet</a>
-</p>
+## 🔗 Me retrouver ailleurs
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/estelle-alizier-5b1208298/)
+- 🌐 [estelle-alizier.fr](https://estelle-alizier.fr/)
+- 📬 Mail : alzestelle@gmail.com
 
 ---
 
-<h2 style="font-size: 2.5em; color: #480E33;">🔗 <strong>My LinkedIn</strong></h2>
-<p style="font-size: 1.3em;">
-Suivez-moi sur LinkedIn pour voir mes mises à jour professionnelles et projets :
-<br>
-<a href="https://www.linkedin.com/in/estelle-alizier-5b1208298/" style="font-size: 1.5em; color: #8499A5;">Follow me :)</a>
-</p>
-
----
-
-<h2 style="font-size: 2.5em; color: #480E33;">💌 <strong>Contact Me</strong></h2>
-<p style="font-size: 1.3em;">
-Pour toute question, collaboration ou simplement échanger, n’hésitez pas à me contacter !
-<br>
-<a href="mailto:alzestelle@gmail.com" style="font-size: 1.5em; color: #8499A5;">Envoyer un e-mail</a>
-</p>
-
----
-
-<h3 align="center" style="font-size: 2.2em; color: #480E33;">✨ Have a nice day! ✨</h3>
+<h3 align="center">✨ Have a nice day & keep learning! ✨</h3>
