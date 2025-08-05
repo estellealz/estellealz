@@ -1,11 +1,11 @@
-<h1 align="center" style="font-size: 3em; color: #480E33;">👋 Hey, I’m <strong>@estellealz</strong></h1>
-<p align="center" style="font-size: 1.5em;">Bienvenue sur mon GitHub ! Je partage ici mes projets, mes jeux, et mes expérimentations en cybersécurité.</p>
+<h1 align="center" style="font-size: 3em; color: #480E33;">👋 Enchantée ! Je suis <strong>@estellealz</strong> 💻🖱️</h1>
+<p align="center" style="font-size: 1.5em;">Bienvenue sur mon GitHub ! Je partage ici mes projets, mes jeux, et mes expérimentations en cybersécurité.🛡️🔐</p>
 
 ---
 
-## 🎨 Portfolio
+## 🕵 Mon Portfolio
 
-🔗 **[estelle-alizier.fr](https://estelle-alizier.fr)**  
+🔗👉 **[estelle-alizier.fr](https://estelle-alizier.fr)**  
 
 ---
 
@@ -25,7 +25,7 @@ Je me suis formée en autodidacte sur **Root Me**, **Hack The Box**, puis en for
 
 ## 🌐 Projet principal — Mon site web personnel
 
-🔗 [Site Web - Estelle](https://github.com/estellealz/website)
+🔗👉 [Site Web - Estelle](https://github.com/estellealz/website)
 
 Ce projet met en application mes compétences techniques et ma rigueur, tant sur l’aspect **design** que sur le **code fonctionnel**. Il combine :
 - PHP/CSS/JS
