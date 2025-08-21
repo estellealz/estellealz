@@ -103,7 +103,7 @@ MatchWork est une plateforme de mise en relation entre profils tech/créatifs po
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/estelle-alizier-5b1208298/)
 - 🌐 [estelle-alizier.fr](https://estelle-alizier.fr/)
-- 📬 Mail : alzestelle@gmail.com
+- 📬 Mail : alz.estelle@gmail.com
 
 ---
 
