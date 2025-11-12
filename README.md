@@ -23,7 +23,7 @@ Je me suis formée en autodidacte sur **Root Me**, **Hack The Box**, puis en for
 
 ---
 
-## 🌐 Projet principal — Mon site web personnel
+## 🌐 Projet principal - Mon site web personnel
 
 🔗👉 [Site Web - Estelle](https://github.com/estellealz/website)
 
@@ -40,46 +40,88 @@ Ce projet met en application mes compétences techniques et ma rigueur, tant sur
 
 ---
 
-## 🧠 Compétences techniques
+## 🧠 Compétences Techniques
 
-### 🔐 Cybersécurité & Réseau  
+<div align="center">
 
-- **Burp Suite** — Analyse des requêtes HTTP/HTTPS, tests d'injection, détection de failles web  
-- **Wireshark** — Capture et analyse de paquets réseau  
-- **VirtualBox** — Virtualisation de systèmes pour test et pratique offensive/défensive  
-- **Cisco Packet Tracer** — Simulation d’architectures réseau et compréhension du routage/switching  
-- **Root Me** — Plateforme de challenges pour la sécurité offensive (stéganographie, réseau, web, crypto, etc.)  
-- **Hack The Box** — Pratique d’exploitation de machines, élévation de privilèges et pentesting
+### 🧩 Infrastructure / Sécurité / Réseau
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" title="Debian" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Microsoft Azure" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/wireshark.svg" title="Wireshark" width="40"/>
+</p>
 
-### 💻 Langages de programmation  
+🧱 **Systèmes :** Windows, Linux (Ubuntu, Debian, Parrot OS, Kali)  
+☁️ **Virtualisation & Cloud :** VirtualBox, VMware, Docker, Microsoft Azure  
+🧰 **Admin & Supervision :** Active Directory, Intune, RDP, Zabbix, Nagios  
+🌐 **Réseau :** Packet Tracer, PuTTY, Wireshark  
+🧩 **Pentest & Analyse :** Burp Suite, OWASP ZAP, Root Me, Hack The Box, Try Hack Me  
+
+---
+
+### 💻 Développement Web (Front & Back)
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQL" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="Microsoft SQL Server" width="40"/>
 </p>
 
-### 🧰 Frameworks et Logiciels  
+🧩 **Langages :** HTML5, CSS3, JavaScript, PHP, Node.js, SQL, Microsoft SQL Server, Python, C, Bash, PowerShell  
+⚙️ **Frameworks / CMS :** Laravel, Bootstrap, Tailwind, Sass, jQuery, WordPress  
+
+---
+
+### 🧰 Outils de Développement & Versioning
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" title="jQuery" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" title="Godot Engine" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" title="WordPress" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" title="GitLab" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" title="FileZilla" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" title="Vim" width="40"/>
 </p>
+
+🧩 **IDE & Outils :** VS Code, WindSurf, Vim, Postman, IMC FAMOS, Godot Engine  
+🔗 **Versioning & Transfert :** Git, GitHub, GitLab, FileZilla  
+
+---
+
+### 🤖 IA & 🎨 Design
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" title="OpenAI / ChatGPT" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" title="Photoshop" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-original.svg" title="Illustrator" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" title="Canva" width="40"/>
+</p>
+
+🧠 **IA :** ChatGPT (OpenAI), Mistral, Gemini, Claude, BlackBox  
+🎨 **Design :** Canva, Photoshop, Illustrator, Figma  
+
+---
+
+### 🌍 Langues
+<p>
+  <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1eb-1f1f7.svg" width="24" alt="FR"/> &nbsp; Français - natif 
+  <br>
+  <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ec-1f1e7.svg" width="24" alt="EN"/> &nbsp; Anglais - courant  
+  <br>
+  <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1e9-1f1ea.svg" width="24" alt="DE"/> &nbsp; Allemand - intermédiaire
+</p>
+
+</div>
+
 
 ---
 
