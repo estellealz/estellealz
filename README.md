@@ -1,152 +1,121 @@
-<h1 align="center" style="font-size: 3em; color: #480E33;">👋 Enchantée ! Je suis <strong>@estellealz</strong> 💻🖱️</h1>
-<p align="center" style="font-size: 1.5em;">Bienvenue sur mon GitHub ! Je partage ici mes projets, mes jeux, et mes expérimentations en cybersécurité.🛡️🔐</p>
-
----
-
-## 🕵 Mon Portfolio
-
-🔗👉 **[estelle-alizier.fr](https://estelle-alizier.fr)**  
-
----
-
-## 🛡️ Pourquoi la cybersécurité ?
-
-Ma passion pour la cybersécurité est née d’un déclic :  
-en voulant protéger un site que j’avais moi-même développé, j’ai découvert le monde fascinant de l’analyse des vulnérabilités, du raisonnement défensif, et des mécanismes réseau/système.
-
-Je me suis formée en autodidacte sur **Root Me**, **Hack The Box**, puis en formation à l’**EFREI Paris**, spécialisation cybersécurité.
-
-💡 Ce qui me motive :
-- Déjouer les failles logiques et techniques
-- Comprendre le fonctionnement des attaques pour mieux les prévenir
-- Appliquer la sécurité dans les projets concrets
-
----
-
-## 🌐 Projet principal - Mon site web personnel
-
-🔗👉 [Site Web - Estelle](https://github.com/estellealz/website)
-
-Ce projet met en application mes compétences techniques et ma rigueur, tant sur l’aspect **design** que sur le **code fonctionnel**. Il combine :
-- PHP/CSS/JS
-- Intégration dynamique, animations, mini-jeux
-- Architecture propre & accessibilité
-
-🔐 C’est aussi un support de tests en cybersécurité :
-- Injections SQL simulées sur le formulaire
-- Analyse réseau avec **Burp Suite**
-- Tentatives d’accès à des pages restreintes
-- Tests XSS / CSRF / comportements HTTP
-
----
-
-## 🧠 Compétences Techniques
-
 <div align="center">
 
-### 🧩 Infrastructure / Sécurité / Réseau
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" title="Debian" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Microsoft Azure" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/wireshark.svg" title="Wireshark" width="40"/>
-</p>
+# Estelle Alizier
+### Cybersecurity
 
-🧱 **Systèmes :** Windows, Linux (Ubuntu, Debian, Parrot OS, Kali)  
-☁️ **Virtualisation & Cloud :** VirtualBox, VMware, Docker, Microsoft Azure  
-🧰 **Admin & Supervision :** Active Directory, Intune, RDP, Zabbix, Nagios  
-🌐 **Réseau :** Packet Tracer, PuTTY, Wireshark  
-🧩 **Pentest & Analyse :** Burp Suite, OWASP ZAP, Root Me, Hack The Box, Try Hack Me  
-
----
-
-### 💻 Développement Web (Front & Back)
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="Microsoft SQL Server" width="40"/>
-</p>
-
-🧩 **Langages :** HTML5, CSS3, JavaScript, PHP, Node.js, SQL, Microsoft SQL Server, Python, C, Bash, PowerShell  
-⚙️ **Frameworks / CMS :** Laravel, Bootstrap, Tailwind, Sass, jQuery, WordPress  
-
----
-
-### 🧰 Outils de Développement & Versioning
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" title="GitLab" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" title="FileZilla" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" title="Vim" width="40"/>
-</p>
-
-🧩 **IDE & Outils :** VS Code, WindSurf, Vim, Postman, IMC FAMOS, Godot Engine  
-🔗 **Versioning & Transfert :** Git, GitHub, GitLab, FileZilla  
-
----
-
-### 🤖 IA & 🎨 Design
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" title="OpenAI / ChatGPT" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" title="Photoshop" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-original.svg" title="Illustrator" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" title="Canva" width="40"/>
-</p>
-
-🧠 **IA :** ChatGPT (OpenAI), Mistral, Gemini, Claude, BlackBox  
-🎨 **Design :** Canva, Photoshop, Illustrator, Figma  
-
----
-
-### 🌍 Langues
-<p>
-  <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1eb-1f1f7.svg" width="24" alt="FR"/> &nbsp; Français - natif 
-  <br>
-  <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ec-1f1e7.svg" width="24" alt="EN"/> &nbsp; Anglais - courant  
-  <br>
-  <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1e9-1f1ea.svg" width="24" alt="DE"/> &nbsp; Allemand - intermédiaire
-</p>
+[![Portfolio](https://img.shields.io/badge/estelle--alizier.fr-000000?style=for-the-badge&logo=safari&logoColor=white)](https://estelle-alizier.fr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estelle-a-5b1208298/)
+[![Email](https://img.shields.io/badge/alz.estelle@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alz.estelle@gmail.com)
 
 </div>
 
+<br>
 
----
+I got into security by building a website and wanting to protect it.
+That curiosity turned into a specialization. I focus on **defensive architecture** with an **offensive mindset**.
 
-## 💻 Piscine 42
+<br>
 
-J’ai participé à la célèbre **Piscine de 42** (2023).  
-Voici mes projets réalisés pendant cette expérience intensive :  
-👉 [Piscine - Ecole 42](https://github.com/estellealz/Piscine42)
+## 🌐 Personal Website : [estelle-alizier.fr](https://estelle-alizier.fr)
 
----
+> Full-stack site built from scratch, a development project **and** a live security lab.
 
-## 🤝 Projet Laravel – MatchWork
+- 🔎 **SQL injection** : custom payloads on PHP forms
+- 📡 **Traffic analysis** : Burp Suite interception & replay
+- 🪤 **XSS / CSRF** : client-side attack simulation
+- 🔒 **Access control** : HTTP behaviour testing & restricted routes
 
-Travail de groupe réalisé dans le cadre de mon Bachelor 3.  
-MatchWork est une plateforme de mise en relation entre profils tech/créatifs pour créer des projets en binôme.  
-👉 [MatchWork - Réseau Social Laravel](https://github.com/Tidragon-coder/projet_dev_match)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=flat-square&logo=owasp&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
----
+<br>
 
-## 🔗 Me retrouver ailleurs
+## 📁 Other Projects
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/estelle-alizier-5b1208298/)
-- 🌐 [estelle-alizier.fr](https://estelle-alizier.fr/)
-- 📬 Mail : alz.estelle@gmail.com
+**[MatchWork](https://github.com/Tidragon-coder/projet_dev_match)** : Matchmaking platform connecting tech & creative profiles for collaborative projects. Auth flows, relational DB design, UX team.
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
----
+**[Piscine 42](https://github.com/estellealz/Piscine42)** : Intensive low-level bootcamp : memory management, process control, algorithm challenges under time pressure. *(2023)*
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-<h3 align="center">✨ Have a nice day & keep learning! ✨</h3>
+<br>
+
+## 🛠️ Technical Skills
+
+### 🔐 Security & Pentest
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=flat-square&logo=owasp&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-00B0CA?style=flat-square&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logoColor=white)
+![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)
+
+### 🖥️ Systems & Infrastructure
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot_OS-15E0ED?style=flat-square&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat-square&logoColor=white)
+![Nagios](https://img.shields.io/badge/Nagios-EE2323?style=flat-square&logoColor=white)
+![GLPI](https://img.shields.io/badge/GLPI-E5882A?style=flat-square&logoColor=white)
+![Veeam](https://img.shields.io/badge/Veeam-00B336?style=flat-square&logoColor=white)
+
+### 💻 Development
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### 🧰 Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+
+<br>
+
+## 📌 Background
+
+🎓 **EFREI Paris** - Cybersecurity specialization
+🏊 **Piscine 42** alumna *(2023)*
+🌍 French *(native)* · English *(fluent)* · German *(intermediate)*
+
+<br>
+
+<div align="center">
+
+*Full-stack development · Infrastructure & architecture · Ethical hacking*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=100&section=footer" width="100%"/>
+
+</div>
